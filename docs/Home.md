@@ -8,9 +8,11 @@
   --c-accent: #e8d21c;
   --c-border: #352a4d;
 }
-.sidebar, .nav-toggle, .breadcrumb { display: none !important; }
+/* Landing page: break out of the wiki shell (no sidebar column, no topbar, no footer) */
+.shell { display: block !important; }
+.sidebar, .nav-toggle, .breadcrumb, header.topbar, footer { display: none !important; }
 .content > h1:first-child { display: none; }
-main.content { max-width: 1000px; }
+main.content { max-width: 1000px; margin: 0 auto; padding-left: 1.5rem; padding-right: 1.5rem; }
 .wc-hero { text-align: center; padding: 3rem 0 3.5rem; }
 .wc-hero img { width: min(340px, 70vw); border-radius: 1rem; box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
 .wc-title {
