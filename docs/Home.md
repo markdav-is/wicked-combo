@@ -45,7 +45,7 @@ main.content { max-width: 1000px; margin: 0 auto; padding-left: 1.5rem; padding-
 <div class="wc-hero">
 <img src=".attachments/logo.jpg" alt="Wicked Combo logo">
 <div class="wc-title">WICKED COMBO</div>
-<div class="wc-motto">High five &middot; Horns up</div>
+<div class="wc-motto">Horns up &middot; High five</div>
 <p class="wc-blurb">Wicked Combo is an independent game studio making serious tactical games. When your tactics land with a devastating blow &mdash; that's a Wicked Combo.</p>
 </div>
 
