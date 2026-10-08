@@ -67,3 +67,4 @@ main.content { max-width: 1000px; }
 <p class="wc-fine">Wicked Combo is a wholly owned subsidiary of Mark Davis Holdings, LLC.<br>&copy; 2026 Wicked Combo. All rights reserved.</p>
 </div>
 </div>
+
